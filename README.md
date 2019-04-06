@@ -1,24 +1,23 @@
-# README
+# how to run
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## step 1.
 
-Things you may want to cover:
+git clone
 
-* Ruby version
+## step 2.
 
-* System dependencies
+bundle install
 
-* Configuration
+## step 3.
 
-* Database creation
+```
+rails s
+```
 
-* Database initialization
+## step 4.
 
-* How to run the test suite
+```
+bin/webpack-dev-server
+```
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It's done
